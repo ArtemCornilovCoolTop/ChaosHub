@@ -4256,7 +4256,8 @@ Tab:AddSection({"Audio for All Players"})
 
 -- Audio list
 local audios = {
-    {Name = "Yamete Kudasai", ID = 108494476595033},
+    {Name = "Yamete Kudasai", ID = 108506523783690},
+    {Name = "Yamete Kudasai haha", ID = 75677956303613},
     {Name = "Scream", ID = 5710016194},
     {Name = "Horror Jumpscare", ID = 85435253347146},
     {Name = "Loud Audio", ID = 6855150757},
